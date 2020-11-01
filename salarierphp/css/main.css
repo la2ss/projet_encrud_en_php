@@ -1,0 +1,55 @@
+.card-header{
+    background-color: black;
+}
+
+.card-header{
+    text-align: left;
+}
+.tittre{
+    color: white;
+}
+#emp{
+    background-color: black;
+    color: grey;
+}
+#acc{
+    background-color: black;
+}
+.card-footer{
+    text-align: center;
+    background-color: black;
+}
+i{
+    color: dodgerblue;
+}
+.copy{
+    color: white;
+}
+.card-text{
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+.th{
+    background-color: black;
+    color: white;
+}
+
+#modif{
+    color: green;
+}
+#suprim{
+    color: red;
+}
+#voir{
+    color: orange;
+}
+.globale{
+    display: inline-block;
+    background-color: dodgerblue;
+}
+#globale {
+    display: inline-block;
+    background-color: orange;
+}
